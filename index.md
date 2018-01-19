@@ -8,7 +8,7 @@ layout: default
       <div class="info-card">
         <h1>LikoLi</h1>
         <ul>
-          <li>storm/jstormfff</li>
+          <li>storm/jstorm</li>
         </ul>
       </div>
       <div id="particles-js"></div>
